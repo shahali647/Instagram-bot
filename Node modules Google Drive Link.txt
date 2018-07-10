@@ -1,0 +1,3 @@
+Download Node modules from this link: https://drive.google.com/open?id=12yKwq1h0hPaGSAsRN-E76ZaNJ9sgEkXd
+
+- Node modules are required to be placed separately in all 3 bot folders (follow bot, unfollow bot and auto like & comment bot)
